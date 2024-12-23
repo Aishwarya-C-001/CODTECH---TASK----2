@@ -2,9 +2,11 @@ Name : Aishwarya C
 
 Company : CodTech IT Solutions
 
+Intern ID : CT08DS601
+
 Domain : Cloud Computing
 
-Duration : December
+Duration : December to January
 
 Task 2 - Host a static website using Google Cloud Storage. This project
 involves creating a simple HTML/CSS website and deploying it
